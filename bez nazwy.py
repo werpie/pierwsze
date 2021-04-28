@@ -14,3 +14,4 @@ for i in range(3):
     print(nowy)
     lancuch_lista=nowy
     nowy=[]
+print("osdo")
