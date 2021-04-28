@@ -1,4 +1,4 @@
-
+print("proba")
 
 lancuch_lista = list(lancuch)
 nowy = []
