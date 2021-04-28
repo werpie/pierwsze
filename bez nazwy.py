@@ -1,5 +1,4 @@
-lancuch = "gnaowen"
-print(lancuch)
+
 
 lancuch_lista = list(lancuch)
 nowy = []
